@@ -1,0 +1,2 @@
+# Predictive_Dating
+This is the final project for CISC 333. The purpose of this project was to demonstrate our knowledge of data mining and it's applications in a final, practical project. We were tasked with creating the most accurate model possible for determining if two individuals would match with each other in speed dating. The process used in creating the model, the challenges faced, the final product, and the results can be found in the project report. I have also included the KNIME node structure in the repository.
